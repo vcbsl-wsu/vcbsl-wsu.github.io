@@ -10,7 +10,7 @@ title: VCBSL
 email: vcbslab@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The Visual Computing and Biometric Security Lab is a research group comprising of PhD. andMaster students directed by Dr.Ajita Rattani. 
-baseurl: "https://vcbsl-wsu.github.io"
+baseurl: ""
 url: ""
 
 include:
